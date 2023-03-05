@@ -1,0 +1,7 @@
+node_modules
+redis-6.0.10
+.babelrc
+package-lock.json
+package.json
+stop_process
+8-job-main.js 
